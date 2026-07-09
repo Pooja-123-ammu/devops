@@ -23,6 +23,10 @@ export default function Home() {
             Our hosting platform is GitHub Pages, where each change is built and
             deployed automatically through the GitHub Actions pipeline.
           </p>
+         <p>
+            Our hosting platform is GitHub Pages, where each change is built and
+            deployed automatically through the GitHub Actions pipeline.
+          </p>
         </div>
        
       </main>
